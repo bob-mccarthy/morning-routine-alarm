@@ -1,0 +1,9 @@
+**/fp-info-cache
+**/**.kicad_prl
+**/*backups/
+/alarm-node-pcb/*.step
+/alarm-clock-pcb/*.step
+**/*.gbrjob
+**/*.drl
+**/*.gbr
+**/.DS_Store
